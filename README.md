@@ -22,8 +22,7 @@ I will be in **Kristiansand, Norway** in April 2026 for the **GeoAI Week**. I am
 ## ⚡ Fun Facts
 - I started studying Data Science but switched to Mathematics because I wanted to understand the *why* behind algorithms, not just the *how*.
 - Cooking is my passion and I see math the same way. In order to cook something excellent, you need to fail many times and put in a lot of time and effort.
-- I am very much interested in philosophy, arts and languages. I am currently learning german.
-
+- I am very much interested in philosophy, arts and languages. I am currently learning German.
 ## 📫 How to reach me
 - **LinkedIn:** https://www.linkedin.com/in/rubensalescastellar/
 - **Email:** rubensalestrabajo@gmail.com
