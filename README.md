@@ -12,7 +12,7 @@ Matematician *in the making* that applies theoretical knowledge to real-world pr
 - **Theoretical Math:** Linear Algebra, Calculus, Linear Programming, Heuristics, ODEs/PDEs, Numerical Analysis
 
 ## 🗃️ Projects
-- [GRASP and Path Relinking for Maximum Diversity Problem](https://github.com/rubensales26/grasp-for-diversity-problem)
+- [GRASP and Path Relinking for Maximum Diversity Problem](https://github.com/rubensales26/heuristics-diversity-problem)
 - [Guillotine Algorithm for 2D Bin Packing](https://github.com/rubensales26/2d-bin-packing-heuristics)
 - [Diffusion Equation Solver](https://github.com/rubensales26/diffusion_matlab): Currently working on it for my internship.
 
