@@ -11,6 +11,11 @@ Matematician *in the making* that applies theoretical knowledge to real-world pr
 - **AI/ML:** OpenAI API, Prompt Engineering, Document Processing
 - **Theoretical Math:** Linear Algebra, Calculus, Linear Programming, Heuristics, ODEs/PDEs, Numerical Analysis
 
+## 🗃️ Projects
+- [GRASP and Path Relinking for Maximum Diversity Problem](https://github.com/rubensales26/grasp-for-diversity-problem)
+- [Guillotine Algorithm for 2D Bin Packing](https://github.com/rubensales26/2d-bin-packing-heuristics)
+- [Diffusion Equation Solver](https://github.com/rubensales26/diffusion_matlab): Currently working on it for my internship.
+
 ## 💬 Ask me about...
 - **How to process documents using LLMS:** My experience tuning this technology for extracting and processing information correctly from real invoices.
 - **How to apply heuristics to problems:** Applying **GRASP** and **Path Relinking** methodologies to solve Combinatorial Optimization problems.
