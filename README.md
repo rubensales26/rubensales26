@@ -1,5 +1,5 @@
 # About me
-Matematician *in the making* that applies theoretical knowledge to real-world problems. My background combines the depth of pure subjects with a practical coding experience acquired through my degree and my internships.
+Matematician *in the making* that applies theoretical knowledge to real-world problems. My background combines pure subjects with a practical coding experience acquired through my degree and my internships.
 
 ## 🔭 Current Focus
 - **Thesis:** Writing my thesis in **Combinatorial Optimization**, particularly studying *The periodic vehicle routing problem with driver consistency*. Comparing different methods and heuristics for solving this problem and investigating the use of **Neural Networks** in the computation of optimality bounds.
