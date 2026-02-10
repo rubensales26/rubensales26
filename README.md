@@ -17,12 +17,12 @@ Matematician *in the making* that applies theoretical knowledge to real-world pr
 - **How to implement numerical algorithms:** Turning complex math into algorithms that work.
 
 ## 🇳🇴 Seeking Opportunities
-I will be in **Kristiansand, Norway** in April 2026 for the **GeoAI Week**. I am actively seeking a Summer 2026 Internship in Norway where I can continue developing myself and my career by facing AI, Geodata, or Engineering challenges.
+I will be in **Kristiansand, Norway** in April 2026 for the **GeoAI Week**. I am actively seeking a Summer 2026 Internship in Norway where I can continue developing myself and my career by facing AI, Geodata, or Engineering challenges. I am also open to other professional or research opportunities!
 
 ## ⚡ Fun Facts
 - I started studying Data Science but switched to Mathematics because I wanted to understand the *why* behind algorithms, not just the *how*.
-- Cooking is my passion and I see math the same way. In order to cook something excellent, you need to fail many times and put in a lot of time and effort.
 - I am very much interested in philosophy, arts and languages. I am currently learning German.
+
 ## 📫 How to reach me
 - **LinkedIn:** https://www.linkedin.com/in/rubensalescastellar/
 - **Email:** rubensalestrabajo@gmail.com
