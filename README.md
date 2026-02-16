@@ -2,7 +2,7 @@
 Matematician *in the making* that applies theoretical knowledge to real-world problems. My background combines pure subjects with a practical coding experience acquired through my degree and my internships.
 
 ## 🔭 Current Focus
-- **Thesis:** Writing my thesis in **Combinatorial Optimization**, particularly studying *The periodic vehicle routing problem with driver consistency*. Comparing different methods and heuristics for solving this problem and investigating the use of **Neural Networks** in the computation of optimality bounds.
+- **Thesis:** Writing my thesis in **Combinatorial Optimization**, particularly studying *The periodic vehicle routing problem with driver consistency*. Comparing different methods and heuristics for solving this problem. Researching the use of **Graph Neural Networks** in *Branch & Bound* instead of **Strong Branching**.
 - **Internship:** Implementing **Finite Differences** and **Finite Elements** to solve systems of ODEs that model nuclear reactor dynamics.
 
 ## 🛠️ Technical Toolkit
