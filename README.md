@@ -1,16 +1,16 @@
 # About me
-Matematician *in the making* that applies theoretical knowledge to real-world problems. My background combines knowledge in theoretical mathematics with a practical coding experience acquired through my degree and my internships.
+Applied Mathematician focused on Operations Research, Statistics, and Optimization. My background combines knowledge in theoretical mathematics with a practical coding experience acquired through my degree and my internships.
 
 ## 🛠️ Technical Toolkit
-- **Languages:** *Python* (*Pydantic, openai*), *R*, *MATLAB*, *SQL*, *LaTeX*
+- **Languages:** *Python* (*Pydantic, openai*), *R*, *MATLAB*, *LaTeX*
 - **Mathematical Tools:** *Wolfram Mathematica* (basic knowledge), *Excel* (for linear programming)
 - **AI/ML:** OpenAI API, Prompt Engineering, Document Processing
-- **Theoretical Math:** Linear Algebra, Calculus, Linear Programming, Metaheuristics, ODEs/PDEs, Numerical Analysis
+- **Theoretical Math:** Statistics, Linear Programming, Metaheuristics, ODEs/PDEs, Numerical Analysis
 
 ## 🗃️ Projects
 - [GRASP and Path Relinking for Maximum Diversity Problem](https://github.com/rubensales26/heuristics-diversity-problem)
 - [Guillotine Algorithm for 2D Bin Packing](https://github.com/rubensales26/2d-bin-packing-heuristics)
-- [Diffusion Equation Solver](https://github.com/rubensales26/diffusion_matlab): Currently working on it for my internship.
+- [Diffusion Equation Solver](https://github.com/rubensales26/diffusion_matlab)
 
 ## 💬 Ask me about...
 - **How to process documents using LLMS:** My experience tuning this technology for extracting and processing information correctly from real invoices.
